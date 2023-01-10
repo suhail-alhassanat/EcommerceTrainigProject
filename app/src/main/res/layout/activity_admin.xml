@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".activities.AdminActivity"
+        android:foregroundGravity="center"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_50sdp"
+        >
+        <Button android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:text="@string/btn_insert_product"
+            android:id="@+id/btn_insert_product"
+            android:layout_weight="1"
+            android:layout_marginBottom="@dimen/_20sdp"
+            />
+        <Button android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:text="@string/btn_update_product"
+            android:id="@+id/btn_update_product"
+            android:layout_weight="1"
+            android:layout_marginTop="@dimen/_20sdp"
+            />
+    </LinearLayout>
+</LinearLayout>

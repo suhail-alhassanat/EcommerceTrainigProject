@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EcommerceProject</string>
+    <string name="et_user_name_hint">User Name</string>
+    <string name="et_password_hint">Password</string>
+    <string name="rb_user">User</string>
+    <string name="rb_admin">Admin</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signUp">sign up</string>
+    <string name="btn_create_user">create user</string>
+    <string name="btn_insert_product">insert product</string>
+    <string name="btn_update_product">update/delete produc</string>
+    <string name="et_product_name">Product Name</string>
+    <string name="et_product_price">Price</string>
+    <string name="et_product_details">Details</string>
+    <string name="btn_save">save data</string>
+    <string name="tv_insert_product_label">Insert New Product</string>
+    <string name="btn_delete_product">Delete Product</string>
+    <string name="btn_modify_product">Update Product</string>
+    <string name="btn_update">Update Product</string>
+    <string name="btn_buy_product">Buy this product</string>
+    <string name="tv_quantity">Quantity</string>
+    <string name="tv_total_price">Total Price</string>
+    <string name="btn_add_to_cart">Add To Cart</string>
+    <string name="btn_show_my_cart">Show My Cart</string>
+    <string name="btn_remove_from_cart">Remove From Cart</string>
+    <string name="tv_your_cart">Your Cart</string>
+</resources>
