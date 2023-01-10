@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:textSize="30sp"
             android:textColor="@color/black"
-            android:text="@string/tv_insert_product_label"
+            android:text="@string/tv_update_product_label"
             android:layout_gravity="center_horizontal"/>
         <EditText
             android:layout_width="match_parent"
